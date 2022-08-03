@@ -23,5 +23,7 @@ namespace FIT5032_FinalAPP.Models
                 .HasForeignKey(e => e.StudentId)
                 .WillCascadeOnDelete(false);
         }
+
+        public System.Data.Entity.DbSet<FIT5032_FinalAPP.Models.MOCK_DATA> MOCK_DATA { get; set; }
     }
 }
