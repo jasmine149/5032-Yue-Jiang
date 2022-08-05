@@ -137,3 +137,4 @@ H:\fit5032\FIT5032_FinalApp\FIT5032_FinalAPP\bin\SendGrid.dll
 H:\fit5032\FIT5032_FinalApp\FIT5032_FinalAPP\bin\StarkbankEcdsa.dll
 H:\fit5032\FIT5032_FinalApp\FIT5032_FinalAPP\bin\SendGrid.pdb
 H:\fit5032\FIT5032_FinalApp\FIT5032_FinalAPP\bin\SendGrid.xml
+H:\fit5032\FIT5032_FinalApp\FIT5032_FinalAPP\obj\Debug\FIT5032_FinalAPP.csproj.AssemblyReference.cache

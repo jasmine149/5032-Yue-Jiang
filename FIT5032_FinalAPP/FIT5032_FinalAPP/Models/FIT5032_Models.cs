@@ -25,5 +25,7 @@ namespace FIT5032_FinalAPP.Models
         }
 
         public System.Data.Entity.DbSet<FIT5032_FinalAPP.Models.MOCK_DATA> MOCK_DATA { get; set; }
+
+        public System.Data.Entity.DbSet<FIT5032_FinalAPP.Models.Images> Images { get; set; }
     }
 }
