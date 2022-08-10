@@ -8,6 +8,7 @@ namespace FIT5032_FinalAPP
     {
         public void Configuration(IAppBuilder app)
         {
+            ConfigureAuth(app);
             app.MapSignalR();
         }
     }
