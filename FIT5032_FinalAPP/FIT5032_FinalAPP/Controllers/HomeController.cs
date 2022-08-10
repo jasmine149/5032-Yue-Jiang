@@ -28,7 +28,10 @@ namespace FIT5032_FinalAPP.Controllers
 
             return View();
         }
-
+        public ActionResult ToDo()
+        {
+            return View();
+        }
         public ActionResult Send_Email()
         {
             return View(new SendEmailViewModel());
